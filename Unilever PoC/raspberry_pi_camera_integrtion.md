@@ -65,8 +65,8 @@ cv2.waitKey(0)
 
 
 
-[link](<script src="https://gist.github.com/gp1313/b60546a8737c815a272a910b5cb7d463.js"></script>)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODA0ODc1MywtMTI2NzI5NzQ1OV19
+eyJoaXN0b3J5IjpbMTQ0MDE3MTcsLTEyNjcyOTc0NTldfQ==
 -->
